@@ -1,6 +1,6 @@
 version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
-options: "e4326330a91b5ef6152d97d1c30f34f9"
-build_time: [538403169, 965410000]
+options: "2d518e0517120b9c14859a50aaab4949"
+build_time: [539058900, 338656000]
 inputs:
-  "/Users/Celine/Documents/Projects/FreeRider/FreeRider/FreeRider/ViewController.swift": [534253891, 0]
-  "/Users/Celine/Documents/Projects/FreeRider/FreeRider/FreeRider/AppDelegate.swift": [534253891, 0]
+  "/Users/Celine/Documents/Projects/FreeRider/iOS_Application/FreeRider/ViewController.swift": [534253891, 0]
+  "/Users/Celine/Documents/Projects/FreeRider/iOS_Application/FreeRider/AppDelegate.swift": [534253891, 0]
